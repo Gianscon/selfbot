@@ -1,4 +1,22 @@
 #Selfbot Việt Hóa By Zin
+## 💎・Lấy Token
+ - Bước 1 : Vào Discord App hoặc Discord trên trình duyệt
+ - Bước 2 : Ấn và giữ 3 nút : Ctrl + Shift + I , khi giữ nút I xong thì thả ra , sẽ xuất hiện 1 bảng ở bên màn hình
+ - Bước 3 : Chuyển qua tab "Bảng điều khiển" ( Console ) và nhập lệnh sau 
+
+```js
+(webpackChunkdiscord_app.push([
+    [""],
+    {},
+    (e) => {
+        m = [];
+        for (let c in e.c) m.push(e.c[c]);
+    },
+]),
+m)
+    .find((m) => m?.exports?.default?.getToken !== void 0)
+    .exports.default.getToken();
+```
 ## 👑・ Tính Lăng
 
 -   Tự Hunt
