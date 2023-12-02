@@ -1,4 +1,5 @@
 <h1 align="center">OwO Farm Bot Việt Hóa By Zin </h1>
+
 ## 📡・Yêu Cầu 
 - Cần cài đặt Node.js phiên bản mới ( nếu không được thì thử lùi lại 1 số phiên bản cũ )
 - Cần hiểu config ở bên dưới và biết config cho đúng , nếu không sẽ có lỗi
