@@ -1,4 +1,7 @@
 #Selfbot Việt Hóa By Zin
+## 📡・Yêu Cầu 
+- Cần cài đặt Node.js phiên bản mới ( nếu không được thì thử lùi lại 1 số phiên bản cũ )
+- Cần hiểu config ở bên dưới và biết config cho đúng , nếu không sẽ có lỗi
 ## 💎・Lấy Token
  - Bước 1 : Vào Discord App hoặc Discord trên trình duyệt
  - Bước 2 : Ấn và giữ 3 nút : Ctrl + Shift + I , khi giữ nút I xong thì thả ra , sẽ xuất hiện 1 bảng ở bên màn hình
@@ -112,3 +115,15 @@ m)
         "autoquestchannelid":"" auto quest channel id | Recommend để id cùng với channelid cho dễ quản lý
     }
 }
+
+```
+## ⭐ Cách Chạy Bot
+- Kiểm tra lại xem đã config đầy đủ chưa.
+- Đến phần quan trọng nè : 
++ Mở cmd ( Windows 10 trở xuống ) hoặc Terminal ( Windows 11 ) và trỏ đến thư mục có file selfbot.
++ Chạy : "npm i".
++ Đợi cho nó load mấy cái thư viện cần thiết.
++ Sau khi load xong , chạy "node octopus.js" để chạy selfbot.
+## ❗・ Quan trọng
+- Sau khi chạy selfbot , hãy chuyển qua ngay tab Discord và theo dõi xem có bị check BAN không , nếu bị ban thì nhanh chóng đóng cửa sổ cmd ( Windows 10 trở xuống ) hoặc Terminal ( Windows 11 ) , sau đó giải captcha rồi mới chạy lại !
+- Nếu có lỗi nào , hãy hỏi owner của selfbot là Zin_No0b để được hỗ trợ , tạo một issuses và DM đến discord hieudream1 !
