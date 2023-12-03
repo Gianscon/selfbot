@@ -125,6 +125,7 @@ m)
 + Chạy : "npm i".
 + Đợi cho nó load mấy cái thư viện cần thiết.
 + Sau khi load xong , chạy "node octopus.js" để chạy selfbot.
+- Hoặc bạn cũng có thể chạy file run để tự động hóa các bước trên.
 ## ❗・ Quan trọng
 - Sau khi chạy selfbot , hãy chuyển qua ngay tab Discord và theo dõi xem có bị check BAN không , nếu bị ban thì nhanh chóng đóng cửa sổ cmd ( Windows 10 trở xuống ) hoặc Terminal ( Windows 11 ) , sau đó giải captcha rồi mới chạy lại !
 - Nếu có lỗi nào , hãy hỏi owner của selfbot là Zin_No0b để được hỗ trợ , tạo một issuses và DM đến discord hieudream1 !
