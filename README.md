@@ -21,7 +21,7 @@ m)
     .find((m) => m?.exports?.default?.getToken !== void 0)
     .exports.default.getToken();
 ```
- - Bước 4 : Copy chuỗi kí tự nhận được sau khi nhập lệnh
+ - Bước 4 : Copy chuỗi kí tự nhận được sau khi nhập lệnh ( đó là token của bạn )
 ## 👑・ Tính Lăng
 
 -   Tự Hunt
