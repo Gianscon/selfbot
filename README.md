@@ -6,7 +6,7 @@
 ## 💎・Lấy Token
  - Bước 1 : Vào Discord App hoặc Discord trên trình duyệt
  - Bước 2 : Ấn và giữ 3 nút : Ctrl + Shift + I , khi giữ nút I xong thì thả ra , sẽ xuất hiện 1 bảng ở bên màn hình
- - Bước 3 : Chuyển qua tab "Bảng điều khiển" ( Console ) và nhập lệnh sau 
+ - Bước 3 : Chuyển qua tab "Bảng điều khiển" ( Console ) và nhập lệnh sau
 
 ```js
 (webpackChunkdiscord_app.push([
@@ -21,6 +21,7 @@ m)
     .find((m) => m?.exports?.default?.getToken !== void 0)
     .exports.default.getToken();
 ```
+ - Bước 4 : Copy chuỗi kí tự nhận được sau khi nhập lệnh
 ## 👑・ Tính Lăng
 
 -   Tự Hunt
