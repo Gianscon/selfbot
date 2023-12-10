@@ -69,7 +69,7 @@ m)
         "animals": {
             "enable": "", true hoặc false
             "type": "" sell hoặc sacrifice
-            "ifsacrifice": {
+            "animaltype": {
                 "common": "", true hoặc false
                 "uncommon": "", true hoặc false
                 "rare": "", true hoặc false
@@ -119,7 +119,7 @@ m)
 }
 
 ```
-## ⭐ Cách Chạy Bot
+## ・⭐ Cách Chạy Bot
 - Kiểm tra lại xem đã config đầy đủ chưa.
 - Đến phần quan trọng nè : 
 + Mở cmd ( Windows 10 trở xuống ) hoặc Terminal ( Windows 11 ) và trỏ đến thư mục có file selfbot.
